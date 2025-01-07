@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TAT/static/css/main.17259f83.css",
-    "main.js": "/TAT/static/js/main.51d2e26e.js",
+    "main.js": "/TAT/static/js/main.bc6595ba.js",
     "index.html": "/TAT/index.html",
     "main.17259f83.css.map": "/TAT/static/css/main.17259f83.css.map",
-    "main.51d2e26e.js.map": "/TAT/static/js/main.51d2e26e.js.map"
+    "main.bc6595ba.js.map": "/TAT/static/js/main.bc6595ba.js.map"
   },
   "entrypoints": [
     "static/css/main.17259f83.css",
-    "static/js/main.51d2e26e.js"
+    "static/js/main.bc6595ba.js"
   ]
 }
