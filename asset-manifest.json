@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/TAT/static/css/main.17259f83.css",
-    "main.js": "/TAT/static/js/main.bc6595ba.js",
-    "index.html": "/TAT/index.html",
-    "main.17259f83.css.map": "/TAT/static/css/main.17259f83.css.map",
-    "main.bc6595ba.js.map": "/TAT/static/js/main.bc6595ba.js.map"
+    "main.css": "https://rnd1admin.github.io/TAT/static/css/main.17259f83.css",
+    "main.js": "https://rnd1admin.github.io/TAT/static/js/main.a8e3e859.js",
+    "index.html": "https://rnd1admin.github.io/TAT/index.html",
+    "main.17259f83.css.map": "https://rnd1admin.github.io/TAT/static/css/main.17259f83.css.map",
+    "main.a8e3e859.js.map": "https://rnd1admin.github.io/TAT/static/js/main.a8e3e859.js.map"
   },
   "entrypoints": [
     "static/css/main.17259f83.css",
-    "static/js/main.bc6595ba.js"
+    "static/js/main.a8e3e859.js"
   ]
 }
